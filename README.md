@@ -1,7 +1,7 @@
 # Unified Focal Loss PyTorch
 The unofficial implementation for "Unified Focal Loss: Generalising Dice and Cross Entropy-based Losses to Handle Class Imbalanced Medical Image Segmentation"
 
-Maybe the repo has little error, I would recommend you to use MONAI, i implementation the loss function in MONAI.
+I would recommend you to use MONAI, i implementation the loss function in MONAI.
 https://github.com/Project-MONAI/MONAI/blob/dev/monai/losses/unified_focal_loss.py
 
 ## Description of repository contents
